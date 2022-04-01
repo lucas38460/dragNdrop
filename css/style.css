@@ -1,9 +1,9 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html {
-    font-size: 62.5%;
+  font-size: 62.5%;
 }
 
 div {
@@ -25,4 +25,17 @@ div#rouge {
 
 div#vert {
   background-color: green;
+}
+
+#zoneDeDepo {
+  vertical-align: top;
+  display: inline-block;
+  background-color: yellow;
+  width: 89.8%;
+}
+
+#Align {
+  width: 10%;
+  vertical-align: top;
+  display: inline-block;
 }

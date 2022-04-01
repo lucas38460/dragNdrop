@@ -27,4 +27,17 @@ div#vert {
   background-color: green;
 }
 
+#zoneDeDepo {
+  vertical-align: top;
+  width: 89.8%;
+  background-color: #ff0;
+  display: inline-block;
+}
+
+#Align {
+  width: 10%;
+  vertical-align: top;
+  display: inline-block;
+}
+
 /*# sourceMappingURL=index.b2625c6b.css.map */

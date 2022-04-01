@@ -514,6 +514,10 @@ function hmrAcceptRun(bundle, id) {
 }
 
 },{}],"5AKj5":[function(require,module,exports) {
+let rouge = document.getElementById('');
+let bleu = document.getElementById('');
+let vret = document.getElementById(''); // let  = document.getElementById('');
+ // let  = document.getElementById('');
 
 },{}]},["44WRj","5AKj5"], "5AKj5", "parcelRequire94c2")
 
