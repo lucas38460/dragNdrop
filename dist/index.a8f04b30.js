@@ -514,10 +514,12 @@ function hmrAcceptRun(bundle, id) {
 }
 
 },{}],"5AKj5":[function(require,module,exports) {
-let rouge = document.getElementById('');
-let bleu = document.getElementById('');
-let vret = document.getElementById(''); // let  = document.getElementById('');
- // let  = document.getElementById('');
+let rouge = document.getElementById('rouge');
+let bleu = document.getElementById('bleu');
+let vret = document.getElementById('vert');
+let zoneDeDepo = document.getElementById('zoneDeDepo');
+// let  = document.getElementById('');
+zoneDeDepo.addEventListener('mouseenter', (e)=>{});
 
 },{}]},["44WRj","5AKj5"], "5AKj5", "parcelRequire94c2")
 
