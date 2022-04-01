@@ -1,11 +1,11 @@
-4035
+4031
 109C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts132932094872329453 1
 88C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\regenerator-runtime\README.md132932094859171398 0
 90C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\caniuse-lite\data\regions\VI.js132932094897666816 0
 102C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\caniuse-lite\data\features\link-icon-svg.js132932094884485313 0
 83C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\abortcontroller-polyfill132932094863553694 1
 91C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\cosmiconfig\dist\readFile.js.map132932094868279245 0
-58C:\Users\Lucas\Documents\git_folder\dragNdrop\package.json132932094912886051 0
+58C:\Users\Lucas\Documents\git_folder\dragNdrop\package.json132932930503434806 0
 101C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\transformer-babel\lib\constants.js132932094862499834 0
 76C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\lmdb\src\misc.cpp132932094872823526 0
 141C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\b132932094870357885 1
@@ -16,7 +16,7 @@
 77C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\.package-lock.json132932094913166920 0
 115C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\030-config.md132932094871282737 0
 97C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\terser\node_modules\commander\index.js132932094815024559 0
-50C:\Users\Lucas\Documents\git_folder\dragNdrop\dist132932924016021260 1
+50C:\Users\Lucas\Documents\git_folder\dragNdrop\dist132932947770204930 1
 79C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\weak-lru-cache\tests132932094860472514 1
 95C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\watcher\src\PromiseRunner.hh132932094868097300 0
 87C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\workers\src\types.js132932094869517661 0
@@ -64,7 +64,7 @@
 78C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\yaml\types\pairs.js132932094865896984 0
 94C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\caniuse-lite\data\features\forms.js132932094881466331 0
 87C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\svgo\plugins\_collections.js132932094859294229 0
-56C:\Users\Lucas\Documents\git_folder\dragNdrop\src\app.js132932924012584557 0
+56C:\Users\Lucas\Documents\git_folder\dragNdrop\src\app.js132932947769354808 0
 108C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\transformer-image\lib\ImageTransformer.js132932094813651909 0
 87C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\node-gyp-build\build-test.js132932094822008116 0
 90C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\svgo\plugins\convertPathData.js132932094866633058 0
@@ -82,11 +82,11 @@
 114C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\react-refresh\cjs\react-refresh-babel.production.min.js132932094847519122 0
 137C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-musl.node132932094871412592 0
 86C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\mdn-data\css\selectors.json132932094867199555 0
-60C:\Users\Lucas\Documents\git_folder\dragNdrop\src\index.html132932921373771432 0
+60C:\Users\Lucas\Documents\git_folder\dragNdrop\src\index.html132932931087336089 0
 73C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\terser\LICENSE132932094809501487 0
 90C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\caniuse-lite\data\regions\CH.js132932094873122797 0
 103C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\caniuse-lite\data\features\css-page-break.js132932094877554699 0
-59C:\Users\Lucas\Documents\git_folder\dragNdrop\src\style.css132932923089482771 0
+59C:\Users\Lucas\Documents\git_folder\dragNdrop\src\style.css132932939954455524 0
 143C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback\main.js132932094871282737 0
 94C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\runtime-js\lib\helpers\node132932094869192238 1
 78C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\lmdb\dict\dict2.txt132932094886860590 0
@@ -951,7 +951,7 @@
 79C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\hash\LICENSE132932094802161361 0
 102C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\transformer-js\lib\JSTransformer.js132932094859369062 0
 83C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\terser\tools\terser.d.ts132932094871443985 0
-61C:\Users\Lucas\Documents\git_folder\dragNdrop\dist\index.html132932924016021260 0
+61C:\Users\Lucas\Documents\git_folder\dragNdrop\dist\index.html132932931092805773 0
 88C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\terser\node_modules\commander132932094860322715 1
 92C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\svgo\plugins\removeXMLProcInst.js132932094871596542 0
 93C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\css-tree\lib\syntax\pseudo\lang.js132932094872076676 0
@@ -1391,7 +1391,6 @@
 78C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\parcel\package.json132932094861721537 0
 110C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js132932094827401371 0
 81C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\commander\CHANGELOG.md132932094860651015 0
-73C:\Users\Lucas\Documents\git_folder\dragNdrop\dist\index.b2625c6b.css.map132932924015396405 0
 78C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\posthtml\lib\api.js132932094813331922 0
 116C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\dom-serializer\node_modules\entities\lib\maps\legacy.json132932094862097992 0
 105C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@swc\helpers\lib\_object_without_properties.js132932094870962839 0
@@ -1495,6 +1494,7 @@
 84C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\namer-default\src132932094826147477 1
 83C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\node-addon-api\nothing.c132932094798933260 0
 88C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\cosmiconfig\dist\types.js.map132932094868479149 0
+72C:\Users\Lucas\Documents\git_folder\dragNdrop\dist\index.0641b553.js.map132932947770204930 0
 122C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg132932094872449144 1
 79C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\nullthrows\README.md132932094860247508 0
 78C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\nth-check\README.md132932094862088030 0
@@ -2102,7 +2102,6 @@
 76C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\globals\readme.md132932094859828608 0
 83C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\domelementtype\readme.md132932094858321388 0
 76C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\get-port\index.js132932094823747348 0
-72C:\Users\Lucas\Documents\git_folder\dragNdrop\dist\index.a8f04b30.js.map132932924015708847 0
 75C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\get-port\license132932094835863122 0
 82C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\diagnostic\test132932094850378369 1
 92C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@swc\helpers\scripts\generator.sh132932094872206549 0
@@ -2549,6 +2548,7 @@
 75C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\clone\.npmignore132932094809935756 0
 85C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\core\test\fixtures132932094877887027 1
 90C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\cosmiconfig\dist\loaders.js.map132932094868047200 0
+68C:\Users\Lucas\Documents\git_folder\dragNdrop\dist\index.0641b553.js132932947770204930 0
 90C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\caniuse-lite\data\regions\EG.js132932094879899580 0
 84C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\cosmiconfig\dist\types.js132932094862590085 0
 104C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\core\test\ParcelConfigRequest.test.js132932094873799326 0
@@ -3021,7 +3021,6 @@
 110C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\caniuse-lite\data\features\native-filesystem-api.js132932094887115509 0
 102C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@parcel\optimizer-svgo\src\SVGOOptimizer.js132932094829187116 0
 99C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\caniuse-lite\data\features\nav-timing.js132932094887158892 0
-68C:\Users\Lucas\Documents\git_folder\dragNdrop\dist\index.a8f04b30.js132932924015708847 0
 96C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\@swc\helpers\lib\_array_with_holes.js132932094837187971 0
 107C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\caniuse-lite\data\features\navigator-language.js132932094887210107 0
 96C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\caniuse-lite\data\features\netinfo.js132932094887331969 0
@@ -4029,8 +4028,5 @@
 70C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\.bin\terser132932094900790200 0
 74C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\.bin\terser.cmd132932094900790200 0
 74C:\Users\Lucas\Documents\git_folder\dragNdrop\node_modules\.bin\terser.ps1132932094900780230 0
-72C:\Users\Lucas\Documents\git_folder\dragNdrop\dist\dragNdrop.3464ddca.js132932100511134146 0
-76C:\Users\Lucas\Documents\git_folder\dragNdrop\dist\dragNdrop.3464ddca.js.map132932100511180395 0
-69C:\Users\Lucas\Documents\git_folder\dragNdrop\dist\index.b2625c6b.css132932924015396405 0
-68C:\Users\Lucas\Documents\git_folder\dragNdrop\dist\index.cea00a9b.js132932100938371153 0
-72C:\Users\Lucas\Documents\git_folder\dragNdrop\dist\index.cea00a9b.js.map132932100938371153 0
+69C:\Users\Lucas\Documents\git_folder\dragNdrop\dist\index.2cdaf7bc.css132932939955400447 0
+73C:\Users\Lucas\Documents\git_folder\dragNdrop\dist\index.2cdaf7bc.css.map132932939955400447 0

@@ -142,13 +142,13 @@
       this[globalName] = mainExports;
     }
   }
-})({"44WRj":[function(require,module,exports) {
+})({"6IXwR":[function(require,module,exports) {
 "use strict";
 var HMR_HOST = null;
 var HMR_PORT = null;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "d6ea1d42532a7575";
-module.bundle.HMR_BUNDLE_ID = "62ba0103a8f04b30";
+module.bundle.HMR_BUNDLE_ID = "fe4256060641b553";
 function _toConsumableArray(arr) {
     return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread();
 }
@@ -513,14 +513,32 @@ function hmrAcceptRun(bundle, id) {
     acceptedAssets[id] = true;
 }
 
-},{}],"5AKj5":[function(require,module,exports) {
-let rouge = document.getElementById('rouge');
-let bleu = document.getElementById('bleu');
-let vret = document.getElementById('vert');
-let zoneDeDepo = document.getElementById('zoneDeDepo');
-// let  = document.getElementById('');
-zoneDeDepo.addEventListener('mouseenter', (e)=>{});
+},{}],"bNKaB":[function(require,module,exports) {
+const rouge = document.getElementById("rouge");
+const bleu = document.getElementById("bleu");
+const vret = document.getElementById("vert");
+const zoneDeDepo = document.getElementById("zoneDeDepo");
+const div = document.querySelectorAll("div");
+for(let i = 0; i < 3; i++){
+    div[i].addEventListener("mousedown", ()=>{
+        window.addEventListener("mousemove", (e)=>{
+            let x = e.clientX;
+            let y = e.clientY;
+        });
+    });
+    div[i].addEventListener('mouseup', ()=>{
+        window.removeEventListener;
+    });
+} // zoneDeDepo.addEventListener("mouseup", (e) => {
+ //   console.log("Good bye");
+ // });
+ // zoneDeDepo.addEventListener("mouseenter", (e) => {
+ //   console.log("Don't walk on my grass !");
+ // });
+ // zoneDeDepo.addEventListener("mouseleave", (e) => {
+ //   console.log("Thanks bro");
+ // });
 
-},{}]},["44WRj","5AKj5"], "5AKj5", "parcelRequire94c2")
+},{}]},["6IXwR","bNKaB"], "bNKaB", "parcelRequire94c2")
 
-//# sourceMappingURL=index.a8f04b30.js.map
+//# sourceMappingURL=index.0641b553.js.map

@@ -30,7 +30,8 @@ div#vert {
 #zoneDeDepo {
   vertical-align: top;
   display: inline-block;
-  background-color: yellow;
+  background-color: rgb(72, 172, 93);
+  padding-bottom: 50px;
   width: 80%;
 }
 

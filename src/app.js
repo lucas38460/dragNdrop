@@ -1,9 +1,39 @@
-let rouge = document.getElementById('rouge');
-let bleu = document.getElementById('bleu');
-let vret = document.getElementById('vert');
-let zoneDeDepo = document.getElementById('zoneDeDepo');
-// let  = document.getElementById('');
+const rouge = document.getElementById("rouge");
+const bleu = document.getElementById("bleu");
+const vret = document.getElementById("vert");
+const zoneDeDepo = document.getElementById("zoneDeDepo");
+const div = document.querySelectorAll("div");
 
-zoneDeDepo.addEventListener('mouseenter', e => {
 
-});
+
+for (let i = 0; i < 3; i++) {
+  div[i].addEventListener("mousedown", () => {
+    window.addEventListener("mousemove", (e) => {
+        let x = e.clientX;
+        let y = e.clientY;
+    });
+  });
+
+  div[i].addEventListener('mouseup', () => {
+    window.removeEventListener;
+  });
+}
+
+
+
+
+
+
+
+
+// zoneDeDepo.addEventListener("mouseup", (e) => {
+//   console.log("Good bye");
+// });
+
+// zoneDeDepo.addEventListener("mouseenter", (e) => {
+//   console.log("Don't walk on my grass !");
+// });
+
+// zoneDeDepo.addEventListener("mouseleave", (e) => {
+//   console.log("Thanks bro");
+// });

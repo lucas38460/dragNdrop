@@ -30,7 +30,8 @@ div#vert {
 #zoneDeDepo {
   vertical-align: top;
   width: 80%;
-  background-color: #ff0;
+  background-color: #48ac5d;
+  padding-bottom: 50px;
   display: inline-block;
 }
 
@@ -40,4 +41,4 @@ div#vert {
   display: inline-block;
 }
 
-/*# sourceMappingURL=index.b2625c6b.css.map */
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
