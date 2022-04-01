@@ -1,9 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
 div {
   padding: 50px;
   display: inline-block;
 }
 
-div#Align {
+aside#Align {
   background: #a0a0a0;
 }
 
