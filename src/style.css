@@ -15,16 +15,22 @@ aside#Align {
   background: rgb(160, 160, 160);
 }
 
-div#bleu {
+.blue {
   background-color: blue;
+  width: 100px;
+  height: 100px;
 }
 
-div#rouge {
+.red {
   background-color: red;
+  width: 100px;
+  height: 100px;
 }
 
-div#vert {
+.green {
   background-color: green;
+  width: 100px;
+  height: 100px;
 }
 
 #zoneDeDepo {
@@ -33,6 +39,7 @@ div#vert {
   background-color: rgb(72, 172, 93);
   padding-bottom: 50px;
   width: 80%;
+  height: 100%;
 }
 
 #Align {
