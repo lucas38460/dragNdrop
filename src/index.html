@@ -1,33 +1,34 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="fr">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Grag and Drop</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <header>
-      <h2>
-        Utilisez les cases à droite et faites les glisser en les placant à
-        gauche
-      </h2>
-    </header>
-    <main>
-      <aside id="Align">
-        <div id="bleu"></div>
-        <div id="rouge"></div>
-        <div id="vert"></div>
-      </aside>
-      <section id="zoneDeDepo">mel</section>
-    </main>
-    <footer>
-      Rejoignez nous sur les réseaux
-      <a href="#"
-        ><i class="fa-solid fa-bird"></i>ici<i class="fa-solid fa-bird"></i
-      ></a>
-    </footer>
-    <script type="module" src="app.js"></script>
-  </body>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DrangNdrop</title>
+  <style>
+  #draggable { width: 150px; height: 150px; padding: 0.5em; }
+  </style>
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( ".draggable" ).draggable();
+  } );
+  </script>
+</head>
+<body>
+ 
+<div class="draggable ui-widget-content">
+  <script type="module" src="app.js"></script>
+  <p>Drag me around</p>
+</div>
+
+<div class="draggable ui-widget-content">
+  <script type="module" src="app.js"></script>
+  <p>Drag me around</p>
+</div>
+ 
+ 
+</body>
 </html>
 
 <!-- Lien pour mouse event -->
