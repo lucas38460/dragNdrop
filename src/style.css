@@ -15,19 +15,19 @@ aside#Align {
   background: rgb(160, 160, 160);
 }
 
-.blue {
+#blue {
   background-color: blue;
   width: 100px;
   height: 100px;
 }
 
-.red {
+#red {
   background-color: red;
   width: 100px;
   height: 100px;
 }
 
-.green {
+#green {
   background-color: green;
   width: 100px;
   height: 100px;

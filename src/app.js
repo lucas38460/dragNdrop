@@ -1,31 +1,26 @@
-const rouge = document.getElementById("red");
 const bleu = document.getElementById("blue");
-const vret = document.getElementById("green");
+const rouge = document.getElementById("red");
+const vert = document.getElementById("green");
 const zoneDeDepo = document.getElementById("zoneDeDepo");
-const divParent = document.getElementById('Align');
+const divParent = document.getElementById("Align");
 
-
-rouge.addEventListener('click', (e)=> {
-    divParent.appendChild('')
+bleu.addEventListener("click", (e) => {
+  const addDiv = divParent.appendChild("div");
+  addDiv.classList.add("draggable");
+  console.log("bleu");
 });
 
+rouge.addEventListener("click", (e) => {
+  const addDiv = divParent.appendChild("div");
+  addDiv.classList.add("draggable");
+  console.log("rouge");
+});
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+vert.addEventListener("click", (e) => {
+  const addDiv = divParent.appendChild("div");
+  addDiv.classList.add("draggable");
+  console.log("vert");
+});
 
 // for (let i = 0; i < 3; i++) {
 //   div[i].addEventListener("mousedown", () => {
@@ -39,7 +34,6 @@ rouge.addEventListener('click', (e)=> {
 //     window.removeEventListener;
 //   });
 // }
-
 
 // zoneDeDepo.addEventListener("mouseup", (e) => {
 //   console.log("Good bye");
