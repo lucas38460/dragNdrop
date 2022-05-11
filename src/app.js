@@ -1,11 +1,13 @@
-const rouge = document.getElementById("rouge");
-const bleu = document.getElementById("bleu");
-const vret = document.getElementById("vert");
+const rouge = document.getElementById("red");
+const bleu = document.getElementById("blue");
+const vret = document.getElementById("green");
 const zoneDeDepo = document.getElementById("zoneDeDepo");
-const div = document.querySelectorAll("div");
+const divParent = document.getElementById('Align');
 
 
-
+rouge.addEventListener('click', (e)=> {
+    divParent.appendChild('')
+});
 
 
 
