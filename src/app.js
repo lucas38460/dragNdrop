@@ -3,16 +3,18 @@ const rouge = document.getElementById("red");
 const vert = document.getElementById("green");
 const zoneDeDepo = document.getElementById("zoneDeDepo");
 const divParent = document.getElementById("Align");
+const divClass = ["draggable", "ui-widget-content", "blue"];
 
 bleu.addEventListener("click", (e) => {
   const addDiv = document.createElement("div");
-  addDiv.className = "draggable";
-  console.log("bleu");
+  addDiv.classList = bleu.classList;
+  bleu.parentElement.appendChild(addDiv);
+  console.log(bleu);
 });
 
 rouge.addEventListener("click", (e) => {
     const addDiv = document.createElement("div");
-  addDiv.className= "draggable";
+  addDiv.classList = "draggable";
   console.log("rouge");
 });
 
