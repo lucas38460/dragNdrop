@@ -1,8 +1,27 @@
-// const rouge = document.getElementById("rouge");
-// const bleu = document.getElementById("bleu");
-// const vret = document.getElementById("vert");
-// const zoneDeDepo = document.getElementById("zoneDeDepo");
-// const div = document.querySelectorAll("div");
+const rouge = document.getElementById("rouge");
+const bleu = document.getElementById("bleu");
+const vret = document.getElementById("vert");
+const zoneDeDepo = document.getElementById("zoneDeDepo");
+const div = document.querySelectorAll("div");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -18,12 +37,6 @@
 //     window.removeEventListener;
 //   });
 // }
-
-
-
-
-
-
 
 
 // zoneDeDepo.addEventListener("mouseup", (e) => {
