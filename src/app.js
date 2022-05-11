@@ -5,19 +5,19 @@ const zoneDeDepo = document.getElementById("zoneDeDepo");
 const divParent = document.getElementById("Align");
 
 bleu.addEventListener("click", (e) => {
-  const addDiv = divParent.appendChild("div");
-  addDiv.classList.add("draggable");
+  const addDiv = document.createElement("div");
+  addDiv.className = "draggable";
   console.log("bleu");
 });
 
 rouge.addEventListener("click", (e) => {
-  const addDiv = divParent.appendChild("div");
-  addDiv.classList.add("draggable");
+    const addDiv = document.createElement("div");
+  addDiv.className= "draggable";
   console.log("rouge");
 });
 
 vert.addEventListener("click", (e) => {
-  const addDiv = divParent.appendChild("div");
+    const addDiv = document.createElement("div");;
   addDiv.classList.add("draggable");
   console.log("vert");
 });
