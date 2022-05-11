@@ -9,6 +9,7 @@ bleu.addEventListener("click", (e) => {
   const addDiv = document.createElement("div");
   addDiv.classList = bleu.classList;
   bleu.parentElement.appendChild(addDiv);
+ // event.datatransfer = "dropcopy"
   console.log(bleu);
 });
 
